@@ -1,4 +1,10 @@
+#
 .display {
     height: 300px;
     width: 300px;
+}
+
+.navbar {
+    display: inline-block;
+
 }
