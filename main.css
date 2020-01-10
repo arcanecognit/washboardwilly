@@ -1,4 +1,7 @@
-#
+body {
+   background-color: black;
+}
+
 .display {
     height: 300px;
     width: 300px;
@@ -7,4 +10,13 @@
 .navbar {
     display: inline-block;
 
+}
+
+.showcase {
+    width: 200px;
+    height: 200px;
+}
+
+.showcase tr {
+    margin: 20px;
 }
